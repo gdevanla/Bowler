@@ -36,6 +36,8 @@ All modifiers are accessed as methods on the [`Query`](api-query) class:
 
 Add a custom modifier to the query.
 
+TODO: Add more information regarding function signature and examples.
+
 ```python
 query.modify(callback: Callback)
 ```

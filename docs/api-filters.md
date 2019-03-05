@@ -45,6 +45,8 @@ Argument | Description
 ---|---
 callback | The custom filter function.
 
+TODO: Add more information regarding function signature and examples.
+
 ### `.is_filename()`
 
 Restrict modifications to files matching the supplied regular expression[s].
